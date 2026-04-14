@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "Classic White T-Shirt",
+    "price": 25.00,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=600&h=800&q=80",
+    "description": "Essential plain white t-shirt made from 100% organic cotton.",
+    "category": "clothing"
+  },
+  {
+    "id": 2,
+    "name": "Performance Running Shoes",
+    "price": 130.00,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=600&h=800&q=80",
+    "description": "Ultra-lightweight running shoes with excellent shock absorption.",
+    "category": "shoes"
+  },
+  {
+    "id": 3,
+    "name": "Minimalist Analog Watch",
+    "price": 180.00,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=600&h=800&q=80",
+    "description": "Minimalist analog watch with Japanese movement and leather strap.",
+    "category": "accessories"
+  },
+  {
+    "id": 4,
+    "name": "Travel Canvas Backpack",
+    "price": 95.00,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1581605405669-fcdf81165afa?auto=format&fit=crop&w=600&h=800&q=80",
+    "description": "Spacious, water-resistant canvas backpack with a laptop compartment.",
+    "category": "accessories"
+  },
+  {
+    "id": 5,
+    "name": "Black Sports Cap",
+    "price": 20.00,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?auto=format&fit=crop&w=600&h=800&q=80",
+    "description": "Adjustable black baseball cap with moisture-wicking material.",
+    "category": "accessories"
+  },
+  {
+    "id": 6,
+    "name": "Slim Fit Blue Jeans",
+    "price": 65.00,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=600&h=800&q=80",
+    "description": "Comfortable slim fit jeans with slight stretch for everyday wear.",
+    "category": "clothing"
+  },
+  {
+    "id": 7,
+    "name": "Cozy Gray Hoodie",
+    "price": 55.00,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=600&h=800&q=80",
+    "description": "Warm fleece hoodie for chilly evenings with large front pocket.",
+    "category": "clothing"
+  },
+  {
+    "id": 8,
+    "name": "Black Leather Biker Jacket",
+    "price": 250.00,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=600&h=800&q=80",
+    "description": "Genuine leather biker jacket with asymmetrical zips and hardware.",
+    "category": "clothing"
+  },
+  {
+    "id": 9,
+    "name": "White Minimalist Sneakers",
+    "price": 120.00,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=600&h=800&q=80",
+    "description": "Clean low-profile white leather sneakers for any casual outfit.",
+    "category": "shoes"
+  },
+  {
+    "id": 10,
+    "name": "Aviator Sunglasses",
+    "price": 75.00,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=600&h=800&q=80",
+    "description": "Classic gold-rimmed aviators with 100% UV protection.",
+    "category": "accessories"
+  },
+  {
+    "id": 11,
+    "name": "Leather Chelsea Boots",
+    "price": 140.00,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1520639888713-7851133b1ed0?auto=format&fit=crop&w=600&h=800&q=80",
+    "description": "Premium leather Chelsea boots with comfortable elastic side panels.",
+    "category": "shoes"
+  },
+  {
+    "id": 12,
+    "name": "Textured Knit Sweater",
+    "price": 70.00,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=600&h=800&q=80",
+    "description": "Cozy wool-blend sweater with a rich textured knit pattern.",
+    "category": "clothing"
+  },
+  {
+    "id": 13,
+    "name": "Leather Crossbody Bag",
+    "price": 110.00,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=600&h=800&q=80",
+    "description": "Compact and elegant leather crossbody bag with multiple compartments.",
+    "category": "accessories"
+  },
+  {
+    "id": 14,
+    "name": "Classic Oxford Shirt",
+    "price": 50.00,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=600&h=800&q=80",
+    "description": "Sharp breathable cotton oxford shirt for a smart-casual look.",
+    "category": "clothing"
+  },
+  {
+    "id": 15,
+    "name": "Retro High-Top Sneakers",
+    "price": 95.00,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1512374382149-233c42b6a83b?auto=format&fit=crop&w=600&h=800&q=80",
+    "description": "Vintage-style high-top canvas sneakers with contrast stitching.",
+    "category": "shoes"
+  }
+]
