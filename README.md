@@ -3,7 +3,7 @@
 A full-stack e-commerce web application built with React and FastAPI.
 
 ## 🚀 Live Demo
-https://your-app-name.onrender.com
+https://varu-ecommerce.onrender.com/
 
 ## Features
 - Product listing
