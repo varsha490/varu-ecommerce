@@ -3,29 +3,39 @@
 A full-stack e-commerce web application built with React and FastAPI.
 
 ## 🚀 Live Demo
+
 https://varu-ecommerce.onrender.com/
 
-## Features
-- Product listing
-- Product details page
-- Shopping cart
-- Checkout flow
-- Responsive UI
+## ✨ Features
 
-## Tech Stack
+* Product listing
+* Product details page
+* Shopping cart
+* Checkout flow
+* Responsive UI
+
+## 🛠️ Tech Stack
+
 ### Frontend
-- React
-- Vite
-- JavaScript
-- CSS
+
+* React
+* Vite
+* JavaScript
+* CSS
 
 ### Backend
-- FastAPI
-- Python
 
-## Project Structure
-frontend/
-backend/
+* FastAPI
+* Python
 
-## Author
-Varsha Sugur
+## 📂 Project Structure
+
+* frontend/
+* backend/
+
+## 👩‍💻 Author
+
+**Varsha Sugur**
+
+🔗 GitHub Profile: https://github.com/varsha490
+
